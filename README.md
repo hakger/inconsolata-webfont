@@ -17,6 +17,9 @@ dependencies into right places
 
 ### Inconsolata ###
 
+* **Version**
+Version 1.014
+
 * **Description**
 Inconsolata is a monospace font, designed for code listings and the like,
 in print. There are a great many "programmer fonts," designed primarily for use
@@ -41,6 +44,15 @@ Raph Levien
 
 * **Vendor URL**
 http://www.levien.com
+
+* **Webfont SIL OFL Compliance**
+Font files in /fonts were created form newest TTF font file - version 1.014,
+taken from [Google Fonts repository](https://github.com/google/fonts/).
+No modiffication to any used algorithms, subclassing or anything that would
+break Functional Equivalence was done to font files, thus allowing this package
+to use name Inconsolata.
+
+Special care was taken so that EOT files maintain Functional Equivalence.
 
 
 ## Development Info ##
