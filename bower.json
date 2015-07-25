@@ -9,7 +9,7 @@
   "main": [
     "./css/inconsolata-webfont.css",
     "./less/inconsolata-webfont.less",
-    "./sass/inconsolata-webfont.scss",
+    "./scss/inconsolata-webfont.scss",
     "./fonts/*"
   ],
   "keywords": [
